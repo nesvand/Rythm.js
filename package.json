@@ -23,7 +23,8 @@
   "author": "Benjamin Plouzennec <plouzennec.benjamin@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "watch-http-server": "^0.7.6"
+    "watch-http-server": "^0.7.6",
+    "wiv.js": "^0.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",

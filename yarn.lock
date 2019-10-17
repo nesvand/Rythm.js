@@ -4078,6 +4078,11 @@ which@^1.2.10, which@^1.2.12, which@^1.2.9:
   dependencies:
     isexe "^2.0.0"
 
+wiv.js@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/wiv.js/-/wiv.js-0.1.0.tgz#6b3098d7810e91af9d1ba65fe5dd8ae04234aa10"
+  integrity sha512-txNOF/BZhssbd+VfEuRM/Iq913ntobJglW/3uNrQ9klyxbgDo7CATtr6Y0mA+PG7Ph8K7cV7FHCecsgFL/kzwQ==
+
 wordwrap@~0.0.2:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-0.0.3.tgz#a3d5da6cd5c0bc0008d37234bbaf1bed63059107"
